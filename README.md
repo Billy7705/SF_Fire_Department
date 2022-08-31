@@ -1,6 +1,6 @@
 # SF_Fire_Department
 
-In this project I worked with three of my classmates: [Arman Tavana](https://github.com/armantavanaa), [Arman Hashemizadeh](https://github.com/ahashemiz), [Neset Aydin](https://github.com/nesayd). Our goal was to map out San Francisco's fire department response time against different factors in order for us to see what factors are important.
+In this project I worked with three of my classmates: [Arman Tavana](https://github.com/armantavanaa), [Arman Hashemizadeh](https://github.com/ahashemiz), [Neset Aydin](https://github.com/nesayd). Our goal was to map out San Francisco's fire department response time against different factors (budget, neighborhood, etc) in order for us to see what factors are important.
 
 We used pyspark to be able to query information, perform data fusion, and create dataframes and graphs (see the graphs folder) from this data set that had over 5.5 million rows and 34 columns.
 
